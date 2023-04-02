@@ -1,4 +1,7 @@
 welcome to JOIT SOLUTION INC.
 Located in Calgary, AB, Canada
-with remote offices in Netherlands
-Ghana, Nigeria, Morocco, USA and Italy.
+JOMACS provides services in the following areas
+web Development
+DevOps Engineering
+Software Development
+Data science
